@@ -1,9 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
-    int x,y;
+int main()
+{
+    int x, y;
     scanf("%d %d", &x, &y);
 
-    printf("%d", (x*5000)+(y*9800));
+    printf("%d", (x * 5000) + (y * 9800));
     return 0;
 }

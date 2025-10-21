@@ -1,9 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
+int main()
+{
     int y;
     scanf("%d", &y);
     int lasttwo = y % 100;
 
-    printf("k%02d\n",lasttwo);
+    printf("k%.2d\n", lasttwo);
 }

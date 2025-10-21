@@ -1,12 +1,13 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main (){
+int main()
+{
 
     int x, y;
 
-    scanf("%d %d" , &x, &y);
+    scanf("%d %d", &x, &y);
 
-    printf("%d", (x*6) + y);
+    printf("%d", (x * 6) + y);
 
     return 0;
 }
