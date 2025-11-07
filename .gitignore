@@ -5,6 +5,7 @@
 # Prerequisites
 *.d
 .vscode
+.cph
 # Compiled Object files
 *.slo
 *.lo
