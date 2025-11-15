@@ -11,7 +11,7 @@
 *.lo
 *.o
 *.obj
-
+*.class
 # Precompiled Headers
 *.gch
 *.pch
